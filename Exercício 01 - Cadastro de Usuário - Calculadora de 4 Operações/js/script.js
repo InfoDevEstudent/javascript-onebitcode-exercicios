@@ -1,4 +1,4 @@
-function previewCad (){
+/* function previewCad (){
     const wellcomeCad = alert(`
     \n Cadastro de Recrutas!
     \n Preencha todos os dados de forma correta:`);
@@ -32,6 +32,6 @@ function previewCalc (){
     \n Subtração: ${valor1 - valor2}
     \n Multiplicação: ${valor1 * valor2}
     \n Divisão: ${valor1 / valor2}`)
-}
+} */
 
 
